@@ -1,2 +1,6 @@
 # Win11c
-Clone windows 11
+是一个windows 11模拟器
+>
+>*未完成*
+>~太懒惰~
+>
