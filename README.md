@@ -6,4 +6,4 @@
 >
 -----------
 ## 请使用电脑
-[MIT LICENCE] (../LICENSE)
+[MIT LICENCE](../LICENSE)
