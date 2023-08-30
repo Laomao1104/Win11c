@@ -267,7 +267,7 @@ export const StartMenu = () => {
                 rounded
                 width={26}
                 click="EXTERNAL"
-                payload="https://blueedge.me/"
+                payload="https://win11c.vercel.app/"
               />
               <div className="usName">{userName}</div>
             </div>
