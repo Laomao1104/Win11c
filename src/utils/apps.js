@@ -51,7 +51,7 @@ const apps = [
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://www.buymeacoffee.com/blueedgetechno",
+    payload: "https://win11c.vercel.app",
   },
   {
     name: "Store",
@@ -112,19 +112,12 @@ const apps = [
     icon: "help",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://win11react-docs.andrewstech.me/",
+    payload: "https://laomao1104.github.io/win11c/help/",
   },
   {
     name: "Yammer",
     icon: "yammer",
     type: "app",
-  },
-  {
-    name: "邮件",
-    icon: "mail",
-    type: "app",
-    action: "EXTERNAL",
-    payload: "mailto:inwinter04@163.com",
   },
   {
     name: "电影和电视",
@@ -255,8 +248,7 @@ const apps = [
     icon: "github",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://github.com/laomao1104/win11c
-",
+    payload: "https://github.com/laomao1104/win11c",
   },
   {
     name: "Unescape",
