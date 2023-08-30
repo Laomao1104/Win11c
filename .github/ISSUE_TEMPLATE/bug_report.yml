@@ -27,8 +27,6 @@ body:
       value: "复现！"
     validations:
       required: true
-  validations:
-      required: true
   - type: textarea
     id: additional-text
     attributes:
@@ -37,7 +35,7 @@ body:
       placeholder: 附件
       value: "没有附件."
     validations:
-      required: true    
+      required: true
   - type: dropdown
     id: browsers
     attributes:
