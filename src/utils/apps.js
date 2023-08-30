@@ -255,7 +255,8 @@ const apps = [
     icon: "github",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://github.com/inwinter04/win11React_CN",
+    payload: "https://github.com/laomao1104/win11c
+",
   },
   {
     name: "Unescape",
