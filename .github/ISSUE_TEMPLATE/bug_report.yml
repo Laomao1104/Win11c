@@ -3,7 +3,7 @@ description: 如果它不工作！请告诉我！
 title: "[BUG问题]: "
 labels: ["bug"]
 assignees:
-  - Laomao1104
+  - 
 body:
   - type: markdown
     attributes:
