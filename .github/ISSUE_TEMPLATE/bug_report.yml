@@ -27,6 +27,17 @@ body:
       value: "复现！"
     validations:
       required: true
+  validations:
+      required: true
+  - type: textarea
+    id: additional-text
+    attributes:
+      label: 附件
+      description: 如有任何截图或什么条件出现错误，可以放在这里！
+      placeholder: 附件
+      value: "没有附件."
+    validations:
+      required: true    
   - type: dropdown
     id: browsers
     attributes:
@@ -39,14 +50,5 @@ body:
         - Microsoft Edge
         - Opera
         - 其他
-    validations:
-      required: true
-  - type: textarea
-    id: additional-text
-    attributes:
-      label: 附件
-      description: 如有任何截图或什么条件出现错误，可以放在这里！
-      placeholder: 附件
-      value: "没有附件."
     validations:
       required: true
