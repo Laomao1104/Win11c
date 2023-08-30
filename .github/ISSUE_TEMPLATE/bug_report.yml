@@ -1,9 +1,9 @@
 name: 问题反馈
 description: 如果它不工作！请告诉我！
-title: "[Bug]: "
+title: "[BUG问题]: "
 labels: ["bug"]
 assignees:
-  - inwinter04
+  - Laomao1104
 body:
   - type: markdown
     attributes:
@@ -37,6 +37,7 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
-        - Other Browser
+        - Opera
+        - 其他
     validations:
       required: true
