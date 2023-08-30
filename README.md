@@ -11,8 +11,9 @@ win11c是一个开源项目，旨在使用 React、CSS 和 JavaScript 等标准 
 
 
 >
-> **该项目仍在进行中**
-> 仅能在电脑使用
+> **该项目仍在测试中**
+>
+>仅能在电脑使用
 > 
 
 #### 现场体验: [win11c.vercel.app](https://win11c.vercel.app)
