@@ -16,6 +16,7 @@ win11c是一个开源项目，旨在使用 React、CSS 和 JavaScript 等标准 
 > 
 
 #### 现场体验: [win11c.vercel.app](https://win11c.vercel.app)
+  假版（无法使用系统）[laomao1104.github.io/win11c](https://laomao1104.github.io/win11c)
 
 ![Home](./public/img/home.jpg)
 
@@ -57,7 +58,7 @@ win11c是一个开源项目，旨在使用 React、CSS 和 JavaScript 等标准 
 
 ## 在线部署
 
-我非常推荐使用**Vercel**进行在线部署，就像演示网站那样。对于中国用户来说，他的访问速度是极快的，在某种意义上这是完全免费的。
+我非常推荐使用**Vercel**进行在线部署，就像演示网站那样。对于中国用户来说，他的访问速度是极快的，还支持PHP，在某种意义上这是完全免费的。
 
 [![Deploy with Vercel](https://vercel.com/button)]
 
