@@ -2,7 +2,7 @@
 name: 想法建议
 about: 如果有什么好的想法的话！请点我！
 title: "［建议］"
-labels: "feature"
+labels: "features"
 assignees: ""
 ---
 
