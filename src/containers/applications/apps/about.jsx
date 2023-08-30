@@ -37,7 +37,7 @@ export const AboutWin = () => {
           {t("about.licensed")}&nbsp;
           <a
             target="_blank"
-            href="https://github.com/blueedgetechno/win11React/blob/master/LICENSE"
+            href="https://github.com/laomao1104/win11c/LICENSE"
             rel="noreferrer"
           >
             {t("about.Creative-Commons")}
@@ -46,8 +46,8 @@ export const AboutWin = () => {
         </p>
         <p className="pl-4">
           {t("about.contact")} :&nbsp;
-          <a target="_blank" href="mailto:blue@win11react.com" rel="noreferrer">
-            blue@win11react.com
+          <a target="_blank" href="mailto:laomao2729@gmail.com" rel="noreferrer">
+            laomao2729@gmail.com
           </a>
         </p>
 
