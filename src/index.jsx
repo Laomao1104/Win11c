@@ -12,7 +12,7 @@ root.render(
   <Suspense
     fallback={
       <div id="sus-fallback">
-        <h1>Loading</h1>
+        <h1>DELL</h1>
       </div>
     }
   >
