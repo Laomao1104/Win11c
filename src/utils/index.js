@@ -17,9 +17,7 @@ var { taskbar, desktop, pinned, recent } = {
     "文件资源管理器",
     "Store",
     "Microsoft Edge",
-    "Github",
     "Spotify",
-    "Buy me a coffee",
   ],
   pinned: (localStorage.getItem("pinned") &&
     JSON.parse(localStorage.getItem("pinned"))) || [
@@ -30,21 +28,18 @@ var { taskbar, desktop, pinned, recent } = {
     "设置",
     "Store",
     "Unescape",
-    "Buy me a coffee",
     "记事本",
     "Whiteboard",
     "计算器",
     "Spotify",
     "文件资源管理器",
     "终端",
-    "Github",
     "相机",
   ],
   recent: (localStorage.getItem("recent") &&
     JSON.parse(localStorage.getItem("recent"))) || [
     "邮件",
     "终端",
-    "Github",
     "文件资源管理器",
     "Spotify",
     "Edge",
