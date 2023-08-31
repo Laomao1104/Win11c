@@ -47,6 +47,13 @@ const apps = [
     action: "MSEDGE",
   },
   {
+    name: "Buy me a coffee",
+    icon: "buyme",
+    type: "app",
+    action: "EXTERNAL",
+    payload: "https://win11c.vercel.app",
+  },
+  {
     name: "Store",
     icon: "store",
     type: "app",
