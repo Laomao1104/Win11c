@@ -13,8 +13,8 @@ body:
     id: what-happened
     attributes:
       label: 发生了什么?
-      description: 再告诉我们，你期望发生什么?
-      placeholder: 告诉我们你看到了什么!
+      description: 再告诉我，你期望发生什么?
+      placeholder: 告诉我你看到了什么!
       value: "发生了一个错误!"
     validations:
       required: true
@@ -24,7 +24,7 @@ body:
       label: 如何复现这个问题
       description: 复现这个问题的步骤
       placeholder: opened store
-      value: "复现！"
+      value: "1.••••••"
     validations:
       required: true
   - type: textarea
