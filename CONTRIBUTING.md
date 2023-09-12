@@ -6,7 +6,7 @@
 
 - 本网站由React.js支持⚡
 - 请检查 [已有的 issues](https://github.com/laomao1104/win11c/issues), [pull requests](https://github.com/laomao1104/win11c/pulls) and [discussions](https://github.com/laomao1104/win11c/pulls/discussions).
-- 检查 [已经存在的和计划中的特性](https://github.com/inwinter04/win11React_CN#features).
+- 检查 [已经存在的和计划中的特性](https://github.com/laomao1104/win11c#features).
 
 在进行更改之前，请检查要进行的更改是否已经存在[issue](https://github.com/laomao1104/win11c/issues)。
 
