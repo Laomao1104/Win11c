@@ -8,8 +8,8 @@ import dirs from "./assets/dir.json";
 
 export const WnTerminal = () => {
   const wnapp = useSelector((state) => state.apps.terminal);
-  const [stack, setStack] = useState(["Microsoft Windows [版本 10.0.22000.51]", ""]);
-  const [pwd, setPwd] = useState("C:\\Users\\Blue");
+  const [stack, setStack] = useState(["Microsoft Windows [版本 11.0.23H2]", ""]);
+  const [pwd, setPwd] = useState("C:\\Users\\laoma");
   const [lastCmd, setLsc] = useState(0);
   const [wntitle, setWntitle] = useState("命令提示符");
 
@@ -225,28 +225,28 @@ export const WnTerminal = () => {
     } else if (type == "title") {
       setWntitle(arg.length ? arg : "命令提示符");
     } else if (type == "hostname") {
-      tmpStack.push("blue");
+      tmpStack.push("laomao");
     } else if (type == "login") {
       login();
       tmpStack.push("started login");
     } else if (type == "lang-test") {
       i18next.changeLanguage("fr-FR");
       tmpStack.push("French");
-    } else if (type == "blue") {
-      tmpStack.push("blueedgetechno");
+    } else if (type == "laomao") {
+      tmpStack.push("laomao1104");
     } else if (type == "dev") {
-      tmpStack.push("https://dev.blueedge.me/");
+      tmpStack.push("https://laomao1104.github.io/dev");
     } else if (type == "ver") {
-      tmpStack.push("Microsoft Windows [版本 10.0.22000.51]");
+      tmpStack.push("Microsoft Windows [版本 10.0.23H2]");
     } else if (type == "systeminfo") {
       var dvInfo = [
-        "Host Name:                 BLUE",
-        "OS Name:                   Win11React Dummys Edition",
-        "OS Version:                10.0.22000 N/A Build 22000.51",
+        "Host Name:                 LAOMAO",
+        "OS Name:                   Win11c",
+        "OS Version:                11.0.23H2 N/A Build 22000.51",
         "OS Manufacturer:           ",
         "OS Configuration:          Standalone Workstation",
         "OS Build Type:             Multiprocessor Free",
-        "Registered Owner:          Blue",
+        "Registered Owner:          LAOMAO",
         "Registered Organization:   N/A",
         "Product ID:                7H1S1-5AP1R-473DV-3R5I0N",
       ];
