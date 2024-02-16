@@ -12,11 +12,11 @@ export const EdgeMenu = () => {
 
   const iframes = {
     "https://cn.bing.com/": "必应",
-    "https://blueedge.me": "blueedge",
-    "https://www.iamdt.cn/": "冬天的小窝",
-    "https://github.com/inwinter04": "Github",
+    "https://laomaolm.vercel.app": "老猫的网站",
+    "https://github.com/laomao1104/": "Github",
     "https://blueedge.me/unescape": "Unescape",
     "https://win11.iamdt.eu.org/": "Windows11",
+    "https://laomao1104.github.io/Win11c/": "win11c not use",
   };
 
   const favicons = {
