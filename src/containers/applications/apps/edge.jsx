@@ -120,7 +120,7 @@ export const EdgeMenu = () => {
         <div className="overTool flex">
           <Icon src={wnapp.icon} width={14} margin="0 6px" />
           <div className="btab">
-            <div>新建标签页</div>
+            <div>标签页</div>
             <Icon
               fafa="faTimes"
               click={wnapp.action}
@@ -236,7 +236,7 @@ export const EdgeMenu = () => {
               <div className="text-gray-800 text-xs font-medium">
                 如果它显示 <b>“拒绝连接”</b>，或者{" "}
                 <b>那个网站不允许 </b>
-                其他网站显示他们的内容。 <b>我无法修复它</b>.
+                其他网站显示他们的内容。 <b>我无法修复这个问题</b>.
               </div>
             </div>
           </div>
