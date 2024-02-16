@@ -16,7 +16,7 @@ export const EdgeMenu = () => {
     "https://github.com/laomao1104/": "Github",
     "https://blueedge.me/unescape": "Unescape",
     "https://win11.iamdt.eu.org/": "Windows11",
-    "https://laomao1104.github.io/Win11c/": "win11c not use",
+    "https://laomao1104.github.io/Win11c/": "win11c not use"
   };
 
   const favicons = {
