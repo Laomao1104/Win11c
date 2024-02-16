@@ -1,6 +1,6 @@
 # Win11c
 
-win11c是一个开源项目，使用 React、CSS 和 JavaScript 等标准 Web 技术在 Web 上复制 Windows 11 的桌面体验。欢迎你也参与到这个优秀项目的本土化工作当中！
+win11c是一个开源项目，使用 React、CSS 和 JavaScript 等标准 Web 技术在 Web 上复制 Windows 11 的桌面体验。欢迎你也参与到这个优秀项目的工作！
 
 ## 声明
 
